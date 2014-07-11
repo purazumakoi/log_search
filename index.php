@@ -45,3 +45,4 @@ if($mode === 'search' && $word && $text){
 </form>
 </body>
 </html>
+		
